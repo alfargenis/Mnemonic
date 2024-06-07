@@ -2,6 +2,10 @@
 
 Mnemonic is an app to generate seed phrases offline for more security when storing your cryptocurrencies.
 
+## Test
+
+https://alfargenis.github.io/Mnemonic/
+
 ## Screenshots
 
 [![](https://i.imgur.com/PxdnNOu.png)](https://i.imgur.com/PxdnNOu.png)
